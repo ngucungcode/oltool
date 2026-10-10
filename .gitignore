@@ -1,0 +1,22 @@
+# Python Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# User configurations with sensitive passwords & API keys
+config.json
+.env
+
+# Runtime user directories & artifacts
+.profiles/
+drafts/
+urls/
+*.log
+*.sqlite
+*.db

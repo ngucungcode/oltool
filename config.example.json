@@ -1,0 +1,14 @@
+{
+  "username": "student@haiphong.edu.vn",
+  "password": "your_password_here",
+  "test_url": null,
+  "target_score": 8.5,
+  "pacing": "stealth",
+  "mode": "auto",
+  "ai": {
+    "base_url": "https://api.openai.com/v1",
+    "api_key": "sk-your-openai-or-compatible-api-key",
+    "model": "gpt-4o-mini",
+    "timeout": 60
+  }
+}
