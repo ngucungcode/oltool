@@ -113,5 +113,5 @@ Bạn có thể ghi đè bất kỳ tham số nào trực tiếp từ terminal:
 
 ## 📄 Bản quyền & Đóng góp
 
-- Tác giả: **Tuấn Thành**
+- Tác giả: **Trần Nguyên Minh Nhật**
 - Giấy phép: MIT License.
